@@ -13,4 +13,4 @@ int main(int argc, char *argv[]) {
 	printf("cond1=%d, cond2=%d",cond1,cond2);
 	
 	return 0;
-}
+}sss
